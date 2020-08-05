@@ -1,6 +1,6 @@
 # BrotherEye
 
-> Can you hear me, father [Bruce](<https://dc.fandom.com/wiki/Bruce_Wayne_(New*Earth)> "Bruce Wayne (New Earth)")? Eye am no longer a child. Eye have surpassed you, father. Eye have become a world unto myself.
+> Can you hear me, father [Bruce](<https://dc.fandom.com/wiki/Bruce_Wayne_(New_Earth)> "Bruce Wayne (New Earth)")? Eye am no longer a child. Eye have surpassed you, father. Eye have become a world unto myself.
 
 -- BrotherEye (When it tries to rule Earth)
 
