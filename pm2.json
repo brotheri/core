@@ -1,0 +1,12 @@
+{
+  "apps": [
+    {
+      "name": "brothereye",
+      "script": "npm",
+      "args": "start",
+      "watch": ["src"],
+      "watch_delay": 1000,
+      "ignore_watch": ["node_modules"]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+GET /api/v1/settings/admin
+    get all admins
+    need JWT token
+
+POST /api/v1/settings/admin
+    create an admin
+    need JWT token
+    needs "email", "full_name", "password" in request body
+
+DELETE /api/v1/settings/admin/:id
+    delete an admin
+    need JWT token
+
+GET /api/v1/settings/blocklist
+    get all blocklist
+    need JWT token
+
+POST /api/v1/settings/blocklist
+    create an blocklist
+    need JWT token
+    need "name" in request body
+
+DELETE /api/v1/settings/blocklist/:id
+    delete an blocklist
+    need JWT token
+
+POST /api/v1/settings/monitor/start
+    need JWT token
+
+POST /api/v1/settings/monitor/stop
+    need JWT token
+
+GET /api/v1/settings/monitor/state
+    need JWT token
+
+POST /api/v1/auth/login
+    needs "email", "password" in request body

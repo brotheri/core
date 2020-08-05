@@ -1,0 +1,11 @@
+{
+  "ignore": [".git", "node_modules/**", "dist/**"],
+  "env": {
+    "NODE_ENV": "development"
+  },
+  "watch": ["src/"],
+  "execMap": {
+    "ts": "npm start"
+  },
+  "ext": "ts,json"
+}
